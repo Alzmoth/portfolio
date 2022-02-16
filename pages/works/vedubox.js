@@ -17,14 +17,14 @@ const Work = () => (
       <Title>Vedubox</Title>
       <P>
         Vedubox is an LMS company. I worked remotely here for more than 2 years
-        as a Full Stack Developer. After Corona, the company grew 4 times.{' '}
+        as a Full Stack Developer. The company has grown incredibly after
+        Covid-19
       </P>
       <P>
         I worked here for a long time so I worked on almost every part of the
         project and helped my colleagues. The main things I do are;
       </P>
       <UnorderedList ml={10}>
-        <ListItem>Urgent work and bug fix</ListItem>
         <ListItem>
           Migrate the entire project to the cloud system. We used Azure as cloud
           system.I ensured the smooth and consistent running of the project.
@@ -32,6 +32,7 @@ const Work = () => (
         <ListItem>Whole devops works</ListItem>
         <ListItem>I worked on Zoom and microsoft teams integration.</ListItem>
         <ListItem>fix performance issues</ListItem>
+        <ListItem>Urgent work and bug fix</ListItem>
         <ListItem>
           I worked in the Event, Course, Reports, Exams, Public api, Mobile,
           Desktop etc. part
