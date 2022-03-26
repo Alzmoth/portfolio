@@ -169,7 +169,10 @@ const Home = () => (
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://twitter.com/inkdrop_app" target="_blank">
+            <Link
+              href="https://www.linkedin.com/in/muhammed-ali-nayir-a7016687/"
+              target="_blank"
+            >
               <Button
                 variant="ghost"
                 colorScheme="teal"
