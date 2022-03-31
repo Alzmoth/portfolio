@@ -15,6 +15,7 @@ import memories from '../public/images/memories.jpg'
 import hugo from '../public/images/hugo2.jpg'
 import has from '../public/images/has.jpg'
 import forev from '../public/images/forev.jpg'
+import web3mine from '../public/images/web3mine.jpg'
 import vedu from '../public/images/vedulogo.png'
 
 const Works = () => (
@@ -111,6 +112,32 @@ const Works = () => (
       </Heading>
     </Section>
     <SimpleGrid columns={[1, 2, 2]} gap={6}>
+      <Section delay={0.3}>
+        <WorkGridItem
+          id="mineWeb3"
+          title="Web3 Mine Project"
+          thumbnail={web3mine}
+        >
+          Play Mine game with Web3.js and Ethereum.
+        </WorkGridItem>
+        <HStack mt={4} ml={4} spacing={4}>
+          <Tag size="lg" borderRadius="full" variant="solid" colorScheme="blue">
+            <TagLabel>React</TagLabel>
+          </Tag>
+          <Tag size="lg" borderRadius="full" variant="solid" colorScheme="blue">
+            <TagLabel>Tailwind</TagLabel>
+          </Tag>
+          <Tag size="lg" borderRadius="full" variant="solid" colorScheme="blue">
+            <TagLabel>NodeJs</TagLabel>
+          </Tag>
+          <Tag size="lg" borderRadius="full" variant="solid" colorScheme="blue">
+            <TagLabel>Web3</TagLabel>
+          </Tag>
+          <Tag size="lg" borderRadius="full" variant="solid" colorScheme="blue">
+            <TagLabel>Crypto</TagLabel>
+          </Tag>
+        </HStack>
+      </Section>
       <Section delay={0.3}>
         <WorkGridItem
           id="cryptoviewer"
