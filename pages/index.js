@@ -110,7 +110,7 @@ const Home = () => (
           very much but If I see a beautiful design, I wonder and look at how it
           was made. I like Crypto technologies and have done a few small
           projects. I would like to work on Crypto but I dont have enough
-          experience . Recently i work freelance Click to see my latest
+          experience . Recently i work freelance, Click to see my latest
           <NextLink href="/works">
             <Link> Works</Link>
           </NextLink>
