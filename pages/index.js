@@ -103,18 +103,16 @@ const Home = () => (
         <Paragraph>
           Hi, my fullname Muhammed Ali Nayir, Alzmoth is my nickname. I live in
           Konya/Turkey and 27 years old for now. I have been working as a
-          software developer since 2017. zubidup you can check my project
+          software developer since 2017.
         </Paragraph>
         <Paragraph>
           I follow the latest technologies, To tell the truth, I dont like css
           very much but If I see a beautiful design, I wonder and look at how it
           was made. I like Crypto technologies and have done a few small
           projects. I would like to work on Crypto but I dont have enough
-          experience . Recently i work freelance and I am developing zubidub as
-          a side project. If it is mature enough now, you can review my project
-          from the link :)
-          <NextLink href="https://www.zubidub.com">
-            <Link> Zubidub</Link>
+          experience . Recently i work freelance Click to see my latest
+          <NextLink href="/works">
+            <Link> Works</Link>
           </NextLink>
           .
         </Paragraph>
